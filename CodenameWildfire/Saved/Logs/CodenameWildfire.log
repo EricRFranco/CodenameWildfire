@@ -359,3 +359,14 @@ LogInit: Object subsystem initialized
 [2018.11.16-00.24.28:841][301]LogAssetRegistry: Asset discovery search completed in 18.9765 seconds
 [2018.11.16-00.24.28:844][301]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.11.16-00.24.28:844][301]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000119 seconds (updated 0 objects)
+[2018.11.16-00.48.59:193][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.16-00.49.00:403][826]LogHttp: Warning: 000001F120949940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.16-00.49.00:404][826]LogHttp: Warning: 000001F120949940: libcurl info message cache 0 (Connection 6 seems to be dead!)
+[2018.11.16-00.49.00:404][826]LogHttp: Warning: 000001F120949940: libcurl info message cache 1 (Closing connection 6)
+[2018.11.16-00.49.00:404][826]LogHttp: Warning: 000001F120949940: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.16-00.49.00:404][826]LogHttp: Warning: 000001F120949940: libcurl info message cache 3 (Closing connection 7)
+[2018.11.16-00.56.59:886][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-00.57.00:182][622]LogSlate: Window 'CodenameWildfire - Unreal Editor' being destroyed
+[2018.11.16-00.57.00:440][623]Cmd: QUIT_EDITOR
+[2018.11.16-00.57.00:472][623]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.16-00.57.00:505][623]LogExit: Preparing to exit.
