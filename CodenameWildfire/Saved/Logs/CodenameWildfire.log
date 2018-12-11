@@ -446,3 +446,352 @@ LogInit: Object subsystem initialized
 [2018.12.11-22.03.31:743][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Maps/EndScreenUI]
 [2018.12.11-22.03.32:161][383]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreenUI_Auto27E22D9FB41E1BEA278260EB002E3D274.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/Autosaves/Game/FirstPersonBP/Maps/EndScreenUI_Auto2.uasset'
 [2018.12.11-22.03.32:165][383]LogFileHelpers: Auto-saving content packages took 0.425
+[2018.12.11-22.04.14:907][775]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2018.12.11-22.04.16:939][775]LogSlate: Window '保存内容' being destroyed
+[2018.12.11-22.04.17:006][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/EndScreenUI" FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreenUI.uasset" SILENT=true
+[2018.12.11-22.04.17:428][775]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreenUIE2960DF74BC11DDA9E90F696A8FCDAA1.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreenUI.uasset'
+[2018.12.11-22.04.17:493][775]Cmd: MAP LOAD FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-22.04.17:494][775]LightingResults: New page: 光照构建
+[2018.12.11-22.04.17:529][775]LoadErrors: New page: 正在加载地图： FirstPersonExampleMap.umap
+[2018.12.11-22.04.17:553][775]MapCheck: New page: 地图检测
+[2018.12.11-22.04.17:553][775]LightingResults: New page: 光照构建
+[2018.12.11-22.04.17:741][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.04.17:741][775]LogLinker: Warning: 无法在加载 D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.04.17:741][775]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : 无法找到资源的文件。 /Game/Geometry/Character/Animations_GameExporter/KidAnim
+[2018.12.11-22.04.17:764][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.04.17:764][775]LogLinker: Warning: 无法在加载 D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.04.17:764][775]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : 无法找到资源的文件。 /Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk
+[2018.12.11-22.04.17:765][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.04.17:765][775]LogLinker: Warning: 无法在加载 D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.04.17:775][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.04.17:775][775]LogLinker: Warning: 无法在加载 D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.04.17:788][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.04.17:790][775]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.04.17:791][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.04.17:792][775]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.04.17:793][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.04.17:794][775]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.04.17:794][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.04.17:795][775]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.04.17:848][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.04.17:849][775]LoadErrors: 加载失败 /Game/Geometry/Character/Animations_GameExporter/KidAnim.KidAnim_C 引用者 Game_Export_AnimationsWalk_4
+[2018.12.11-22.04.17:849][775]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.04.17:850][775]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.04.17:850][775]LoadErrors: 加载失败 /Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk.Game_Export_AnimationsWalk 引用者 Game_Export_AnimationsWalk_4
+[2018.12.11-22.04.17:850][775]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.04.18:182][775]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.11-22.04.21:548][775]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-22.04.21:696][775]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-22.04.22:119][775]MapCheck: 地图检测完成：0个错误，0 个警告，用时423.616毫秒完成。
+[2018.12.11-22.04.22:124][775]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.679
+[2018.12.11-22.04.31:633][ 24]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.12.11-22.04.32:788][ 25]LogSlate: Took 0.016855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.11-22.09.32:259][355]LogHttp: Warning: 0000023AFB5EB380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.12.11-22.09.32:259][355]LogHttp: Warning: 0000023AFB5EB380: libcurl info message cache 0 (Connection 12 seems to be dead!)
+[2018.12.11-22.09.32:260][355]LogHttp: Warning: 0000023AFB5EB380: libcurl info message cache 1 (Closing connection 12)
+[2018.12.11-22.09.32:260][355]LogHttp: Warning: 0000023AFB5EB380: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.12.11-22.09.32:260][355]LogHttp: Warning: 0000023AFB5EB380: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.12.11-22.09.32:260][355]LogHttp: Warning: 0000023AFB5EB380: libcurl info message cache 4 (Closing connection 13)
+[2018.12.11-22.10.34:531][539]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-22.10.34:536][539]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2018.12.11-22.12.21:373][420]LogTemp: Repeating last play command: 模拟
+[2018.12.11-22.12.21:599][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.11-22.12.21:601][420]BlueprintLog: New page: 运行前自动重新编译
+[2018.12.11-22.12.21:614][420]LogPlayLevel: [PlayLevel] Compiling EndScreenUI before play...
+[2018.12.11-22.12.21:988][420]LogPlayLevel: [PlayLevel] Compiling TitleScreenUI before play...
+[2018.12.11-22.12.22:201][420]LogPlayLevel: PlayLevel: Blueprint regeneration took 600 ms (2 blueprints)
+[2018.12.11-22.12.22:202][420]PIE: New page: SIE 会话: FirstPersonExampleMap (2018年12月11日 下午12:12:22)
+[2018.12.11-22.12.22:204][420]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.12.11-22.12.22:304][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100125s)
+[2018.12.11-22.12.22:306][420]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.11-22.12.22:306][420]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2018.12.11-22.12.22:307][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.103923s)
+[2018.12.11-22.12.22:371][420]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-22.12.22:400][420]LogInit: FAudioDevice initialized.
+[2018.12.11-22.12.22:439][420]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.11-22.12.22:454][420]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.12.11-17.12.22
+[2018.12.11-22.12.22:457][420]LogWorld: Bringing up level for play took: 0.016579
+[2018.12.11-22.12.22:495][420]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.11-22.12.22:520][420]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间0.561
+[2018.12.11-22.12.22:537][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.11-22.12.32:001][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.11-22.12.32:002][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.12.32:137][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-22.12.32:138][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.11-22.12.32:230][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.12.32:249][727]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.11-22.14.25:748][166]LogHttp: Warning: 0000023B09EDF740: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.12.11-22.14.25:748][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 0 (Connection 14 seems to be dead!)
+[2018.12.11-22.14.25:748][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 1 (Closing connection 14)
+[2018.12.11-22.14.25:749][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.12.11-22.14.25:749][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 3 (  Trying 52.22.81.26...)
+[2018.12.11-22.14.25:749][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 4 (TCP_NODELAY set)
+[2018.12.11-22.14.25:749][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 5 (connect to 52.22.81.26 port 443 failed: Timed out)
+[2018.12.11-22.14.25:749][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 6 (  Trying 52.6.198.225...)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 7 (TCP_NODELAY set)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 8 (connect to 52.6.198.225 port 443 failed: Connection was aborted)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 9 (  Trying 52.4.127.66...)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 10 (TCP_NODELAY set)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 11 (connect to 52.4.127.66 port 443 failed: Network unreachable)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 12 (  Trying 34.230.183.16...)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 13 (TCP_NODELAY set)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 14 (connect to 34.230.183.16 port 443 failed: Network unreachable)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 15 (  Trying 35.173.6.69...)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 16 (TCP_NODELAY set)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 17 (connect to 35.173.6.69 port 443 failed: Network unreachable)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 18 (  Trying 52.200.123.101...)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 19 (TCP_NODELAY set)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 20 (connect to 52.200.123.101 port 443 failed: Network unreachable)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 21 (  Trying 52.87.139.142...)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 22 (TCP_NODELAY set)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 23 (connect to 52.87.139.142 port 443 failed: Network unreachable)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 24 (  Trying 52.87.18.159...)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 25 (TCP_NODELAY set)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 26 (connect to 52.87.18.159 port 443 failed: Network unreachable)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 27 (Failed to connect to datarouter.ol.epicgames.com port 443: Network unreachable)
+[2018.12.11-22.14.25:750][166]LogHttp: Warning: 0000023B09EDF740: libcurl info message cache 28 (Closing connection 15)
+[2018.12.11-22.16.16:425][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.055
+[2018.12.11-22.16.16:428][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Maps/EndScreenUI] ([1] browsable assets)...
+[2018.12.11-22.16.16:428][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Maps/EndScreenUI]
+[2018.12.11-22.16.16:622][127]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreenUI_Auto39A6EE23A4FD66341BC6B42AF6BC9C20C.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/Autosaves/Game/FirstPersonBP/Maps/EndScreenUI_Auto3.uasset'
+[2018.12.11-22.16.16:624][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Maps/TitleScreenUI] ([1] browsable assets)...
+[2018.12.11-22.16.16:624][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Maps/TitleScreenUI]
+[2018.12.11-22.16.16:708][127]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/TitleScreenUI_Auto3349C44B24E6B41C5E1A6CABF4E245577.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/Autosaves/Game/FirstPersonBP/Maps/TitleScreenUI_Auto3.uasset'
+[2018.12.11-22.16.16:711][127]LogFileHelpers: Auto-saving content packages took 0.285
+[2018.12.11-22.17.32:179][692]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/EndScreen1.EndScreen1
+[2018.12.11-22.17.33:417][692]LogSlate: Window '保存内容' being destroyed
+[2018.12.11-22.17.33:721][692]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreen1C485784C43E00C79E5197B854DF48561.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreen1.umap'
+[2018.12.11-22.17.33:734][692]LogFileHelpers: Saving map 'EndScreen1' took 0.269
+[2018.12.11-22.17.33:734][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/EndScreenUI" FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreenUI.uasset" SILENT=true
+[2018.12.11-22.17.33:870][692]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreenUI994E41664B8287D1614A9E8C8BA94AE9.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreenUI.uasset'
+[2018.12.11-22.17.33:888][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/TitleScreenUI" FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/TitleScreenUI.uasset" SILENT=true
+[2018.12.11-22.17.33:935][692]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/TitleScreenUIE0FB56784ADAFB9224FEAF9FDDBE3CE6.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/TitleScreenUI.uasset'
+[2018.12.11-22.17.33:952][692]Cmd: MAP LOAD FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreen1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-22.17.33:952][692]LightingResults: New page: 光照构建
+[2018.12.11-22.17.33:953][692]LoadErrors: New page: 正在加载地图： EndScreen1.umap
+[2018.12.11-22.17.33:956][692]MapCheck: New page: 地图检测
+[2018.12.11-22.17.33:956][692]LightingResults: New page: 光照构建
+[2018.12.11-22.17.34:020][692]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-22.17.34:020][692]LogAIModule: Creating AISystem for world EndScreen1
+[2018.12.11-22.17.34:205][692]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-22.17.34:373][692]MapCheck: 地图检测完成：0个错误，0 个警告，用时167.617毫秒完成。
+[2018.12.11-22.17.34:378][692]LogFileHelpers: Loading map 'EndScreen1' took 0.429
+[2018.12.11-22.17.38:217][780]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1
+[2018.12.11-22.18.31:676][465]LogSlate: Took 0.046961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.11-22.19.14:523][832]LogAIModule: Creating AISystem for world TitleScreen
+[2018.12.11-22.19.14:531][832]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/TitleScreen.TitleScreen
+[2018.12.11-22.19.16:280][832]LogSlate: Window '保存内容' being destroyed
+[2018.12.11-22.19.16:610][832]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreen1689041004FEF2395D85730B2DCF40CDB.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreen1.umap'
+[2018.12.11-22.19.16:798][832]LogFileHelpers: Saving map 'EndScreen1' took 0.508
+[2018.12.11-22.19.16:801][832]Cmd: MAP LOAD FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-22.19.16:802][832]LightingResults: New page: 光照构建
+[2018.12.11-22.19.16:803][832]LoadErrors: New page: 正在加载地图： TitleScreen.umap
+[2018.12.11-22.19.16:915][832]MapCheck: New page: 地图检测
+[2018.12.11-22.19.16:915][832]LightingResults: New page: 光照构建
+[2018.12.11-22.19.16:975][832]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-22.19.17:124][832]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-22.19.17:232][832]MapCheck: 地图检测完成：0个错误，0 个警告，用时108.769毫秒完成。
+[2018.12.11-22.19.17:235][832]LogFileHelpers: Loading map 'TitleScreen' took 0.435
+[2018.12.11-22.19.25:177][ 59]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2018.12.11-22.19.42:711][573]LogAIModule: Creating AISystem for world EndScreen1
+[2018.12.11-22.19.42:716][573]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/EndScreen1.EndScreen1
+[2018.12.11-22.19.42:770][573]Cmd: MAP LOAD FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreen1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-22.19.42:771][573]LightingResults: New page: 光照构建
+[2018.12.11-22.19.42:771][573]LoadErrors: New page: 正在加载地图： EndScreen1.umap
+[2018.12.11-22.19.42:848][573]MapCheck: New page: 地图检测
+[2018.12.11-22.19.42:848][573]LightingResults: New page: 光照构建
+[2018.12.11-22.19.42:920][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-22.19.43:066][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-22.19.43:203][573]MapCheck: 地图检测完成：0个错误，0 个警告，用时137.515毫秒完成。
+[2018.12.11-22.19.43:205][573]LogFileHelpers: Loading map 'EndScreen1' took 0.436
+[2018.12.11-22.19.48:430][700]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1
+[2018.12.11-22.20.46:313][491]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.11-22.21.19:867][537]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreen1B4076C0B4C4E87359FE10F8BCAC099E5.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreen1.umap'
+[2018.12.11-22.21.19:981][537]LogFileHelpers: Saving map 'EndScreen1' took 0.565
+[2018.12.11-22.21.26:595][737]LogTemp: Repeating last play command: 模拟
+[2018.12.11-22.21.26:712][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.21.26:712][737]BlueprintLog: New page: 运行前自动重新编译
+[2018.12.11-22.21.26:729][737]LogPlayLevel: [PlayLevel] Compiling EndScreenUI before play...
+[2018.12.11-22.21.27:009][737]LogPlayLevel: PlayLevel: Blueprint regeneration took 297 ms (1 blueprints)
+[2018.12.11-22.21.27:009][737]PIE: New page: SIE 会话: EndScreen1 (2018年12月11日 下午12:21:27)
+[2018.12.11-22.21.27:010][737]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1
+[2018.12.11-22.21.27:011][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001234s)
+[2018.12.11-22.21.27:012][737]LogAIModule: Creating AISystem for world EndScreen1
+[2018.12.11-22.21.27:012][737]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2018.12.11-22.21.27:012][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EndScreen1.EndScreen1 to /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1.EndScreen1 (0.002772s)
+[2018.12.11-22.21.27:072][737]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-22.21.27:098][737]LogInit: FAudioDevice initialized.
+[2018.12.11-22.21.27:146][737]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.11-22.21.27:149][737]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1.EndScreen1 up for play (max tick rate 60) at 2018.12.11-17.21.27
+[2018.12.11-22.21.27:150][737]LogWorld: Bringing up level for play took: 0.001824
+[2018.12.11-22.21.27:167][737]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.11-22.21.27:215][737]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1的‘在编辑器中播放’的起始时间1.256
+[2018.12.11-22.21.27:236][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.21.28:214][751]LogEditorViewport: Clicking Background
+[2018.12.11-22.21.29:424][770]LogEditorViewport: Clicking Background
+[2018.12.11-22.21.30:024][779]LogEditorViewport: Clicking Background
+[2018.12.11-22.21.30:551][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.21.31:580][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.21.33:314][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.21.33:423][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.21.33:423][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.21.33:508][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-22.21.33:509][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.21.33:614][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.21.33:630][865]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.11-22.23.44:090][811]LogBlueprint: Error: [Compiler PersistentLevel.EndScreen1] 此蓝图（自身）并非是一个 EndScreenUI_C，因此 ' 目标 ’ 必须拥有一个连接。
+[2018.12.11-22.23.44:090][811]LogBlueprint: Error: [Compiler PersistentLevel.EndScreen1] 此蓝图（自身）并非是一个 UserWidget，因此 ' 目标 ’ 必须拥有一个连接。
+[2018.12.11-22.23.44:093][811]LogBlueprint: Error: [Compiler PersistentLevel.EndScreen1] 变量节点 获得TextScroll  使用一个无效的目标。 它可能依赖于连接到执行链上的一个节点，但该节点已被清除。
+[2018.12.11-22.23.44:098][811]LogBlueprint: Warning: [Compiler PersistentLevel.EndScreen1] [2711.40]编译 PersistentLevel.EndScreen1 失败。3 项重大问题；0 个警告[48 毫秒内]（/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1）
+[2018.12.11-22.23.44:322][811]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreen1F590B57E42E7C7BB3F34A281A85C3613.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreen1.umap'
+[2018.12.11-22.23.44:457][811]LogFileHelpers: Saving map 'EndScreen1' took 0.612
+[2018.12.11-22.23.48:337][931]BlueprintLog: New page: 编译EndScreen1
+[2018.12.11-22.23.48:348][931]LogBlueprint: Error: [Compiler PersistentLevel.EndScreen1] 此蓝图（自身）并非是一个 EndScreenUI_C，因此 ' 目标 ’ 必须拥有一个连接。
+[2018.12.11-22.23.48:348][931]LogBlueprint: Error: [Compiler PersistentLevel.EndScreen1] 此蓝图（自身）并非是一个 UserWidget，因此 ' 目标 ’ 必须拥有一个连接。
+[2018.12.11-22.23.48:348][931]LogBlueprint: Error: [Compiler PersistentLevel.EndScreen1] 变量节点 获得TextScroll  使用一个无效的目标。 它可能依赖于连接到执行链上的一个节点，但该节点已被清除。
+[2018.12.11-22.23.48:542][931]LogBlueprint: Warning: [Compiler PersistentLevel.EndScreen1] [2715.85]编译 PersistentLevel.EndScreen1 失败。3 项重大问题；0 个警告[204 毫秒内]（/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1）
+[2018.12.11-22.24.56:990][ 89]BlueprintLog: New page: 编译EndScreen1
+[2018.12.11-22.25.00:400][193]LogTemp: Repeating last play command: 模拟
+[2018.12.11-22.25.00:470][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.25.00:471][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-22.25.00:471][193]PIE: New page: SIE 会话: EndScreen1 (2018年12月11日 下午12:25:00)
+[2018.12.11-22.25.00:471][193]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1
+[2018.12.11-22.25.00:473][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002086s)
+[2018.12.11-22.25.00:474][193]LogAIModule: Creating AISystem for world EndScreen1
+[2018.12.11-22.25.00:475][193]LogPlayLevel: PIE: World Init took: (0.002586s)
+[2018.12.11-22.25.00:476][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EndScreen1.EndScreen1 to /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1.EndScreen1 (0.005122s)
+[2018.12.11-22.25.00:541][193]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-22.25.00:577][193]LogInit: FAudioDevice initialized.
+[2018.12.11-22.25.00:614][193]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.11-22.25.00:615][193]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1.EndScreen1 up for play (max tick rate 60) at 2018.12.11-17.25.00
+[2018.12.11-22.25.00:615][193]LogWorld: Bringing up level for play took: 0.000581
+[2018.12.11-22.25.00:627][193]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.11-22.25.00:667][193]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1的‘在编辑器中播放’的起始时间0.708
+[2018.12.11-22.25.00:671][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.25.07:561][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.25.07:561][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.25.07:599][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-22.25.07:599][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.25.07:653][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.25.07:761][459]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.11-22.25.12:162][608]LogTemp: Repeating last play command: 模拟
+[2018.12.11-22.25.12:290][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.25.12:291][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-22.25.12:291][608]PIE: New page: SIE 会话: EndScreen1 (2018年12月11日 下午12:25:12)
+[2018.12.11-22.25.12:291][608]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1
+[2018.12.11-22.25.12:294][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001836s)
+[2018.12.11-22.25.12:295][608]LogAIModule: Creating AISystem for world EndScreen1
+[2018.12.11-22.25.12:296][608]LogPlayLevel: PIE: World Init took: (0.002548s)
+[2018.12.11-22.25.12:296][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EndScreen1.EndScreen1 to /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1.EndScreen1 (0.004733s)
+[2018.12.11-22.25.12:354][608]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-22.25.12:378][608]LogInit: FAudioDevice initialized.
+[2018.12.11-22.25.12:412][608]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.11-22.25.12:413][608]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1.EndScreen1 up for play (max tick rate 60) at 2018.12.11-17.25.12
+[2018.12.11-22.25.12:413][608]LogWorld: Bringing up level for play took: 0.000530
+[2018.12.11-22.25.12:426][608]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.11-22.25.12:429][608]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1的‘在编辑器中播放’的起始时间0.47
+[2018.12.11-22.25.12:436][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.25.13:562][626]LogEditorViewport: Clicking Background
+[2018.12.11-22.25.14:538][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.25.15:330][642]LogPackageName: SearchForPackageOnDisk took   0.645s, but failed to resolve None.umap.
+[2018.12.11-22.25.15:429][642]LogPackageName: SearchForPackageOnDisk took   0.098s, but failed to resolve None.umap.
+[2018.12.11-22.25.15:430][642]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.12.11-22.25.15:431][642]LogNet: Warning: Travel Failure: [InvalidURL]: 无效URL：/Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.12.11-22.25.15:431][642]LogNet: Warning: 漫游失败：InvalidURL, 失败原因：'无效URL：/Game/FirstPersonBP/Maps/FirstPersonExampleMap'。正在关闭‘在编辑器中运行’功能。
+[2018.12.11-22.25.15:431][642]PIE: Warning: 漫游失败：InvalidURL, 失败原因：'无效URL：/Game/FirstPersonBP/Maps/FirstPersonExampleMap'。正在关闭‘在编辑器中运行’功能。
+[2018.12.11-22.25.15:431][642]LogNet: Warning: Travel Failure: [ClientTravelFailure]: 无效URL：/Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.12.11-22.25.15:431][642]LogNet: Warning: 漫游失败：ClientTravelFailure, 失败原因：'无效URL：/Game/FirstPersonBP/Maps/FirstPersonExampleMap'。正在关闭‘在编辑器中运行’功能。
+[2018.12.11-22.25.15:431][642]PIE: Warning: 漫游失败：ClientTravelFailure, 失败原因：'无效URL：/Game/FirstPersonBP/Maps/FirstPersonExampleMap'。正在关闭‘在编辑器中运行’功能。
+[2018.12.11-22.25.15:431][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.25.15:432][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.25.15:469][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-22.25.15:470][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.25.15:560][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.25.15:595][643]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.11-22.25.25:894][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.26.12:547][351]LogTemp: Repeating last play command: 模拟
+[2018.12.11-22.26.12:690][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.26.12:690][351]BlueprintLog: New page: 运行前自动重新编译
+[2018.12.11-22.26.12:696][351]LogPlayLevel: [PlayLevel] Compiling EndScreenUI before play...
+[2018.12.11-22.26.12:836][351]LogPlayLevel: [PlayLevel] Compiling TitleScreenUI before play...
+[2018.12.11-22.26.13:014][351]LogPlayLevel: PlayLevel: Blueprint regeneration took 323 ms (2 blueprints)
+[2018.12.11-22.26.13:014][351]PIE: New page: SIE 会话: EndScreen1 (2018年12月11日 下午12:26:13)
+[2018.12.11-22.26.13:014][351]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1
+[2018.12.11-22.26.13:016][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001432s)
+[2018.12.11-22.26.13:016][351]LogAIModule: Creating AISystem for world EndScreen1
+[2018.12.11-22.26.13:017][351]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2018.12.11-22.26.13:017][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EndScreen1.EndScreen1 to /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1.EndScreen1 (0.002841s)
+[2018.12.11-22.26.13:072][351]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-22.26.13:096][351]LogInit: FAudioDevice initialized.
+[2018.12.11-22.26.13:139][351]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.11-22.26.13:140][351]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1.EndScreen1 up for play (max tick rate 60) at 2018.12.11-17.26.13
+[2018.12.11-22.26.13:141][351]LogWorld: Bringing up level for play took: 0.000804
+[2018.12.11-22.26.13:154][351]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.11-22.26.13:157][351]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_EndScreen1的‘在编辑器中播放’的起始时间1.197
+[2018.12.11-22.26.13:162][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.26.13:921][364]LogEditorViewport: Clicking Background
+[2018.12.11-22.26.14:551][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.26.14:656][374]LogNet: Browse: /Game/FirstPersonBP/Maps/TitleScreen
+[2018.12.11-22.26.14:693][374]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/TitleScreen
+[2018.12.11-22.26.18:577][374]LogAIModule: Creating AISystem for world TitleScreen
+[2018.12.11-22.26.18:578][374]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.11-22.26.18:581][374]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2018.12.11-17.26.18
+[2018.12.11-22.26.18:581][374]LogWorld: Bringing up level for play took: 0.001255
+[2018.12.11-22.26.18:582][374]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.11-22.26.18:587][374]LogLoad: Took 3.893626 seconds to LoadMap(/Game/FirstPersonBP/Maps/TitleScreen)
+[2018.12.11-22.26.19:886][398]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.12.11-22.26.19:887][398]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.12.11-22.26.20:045][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.26.20:045][398]LogLinker: Warning: 无法在加载 D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.26.20:045][398]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : 无法找到资源的文件。 /Game/Geometry/Character/Animations_GameExporter/KidAnim
+[2018.12.11-22.26.20:356][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.26.20:356][398]LogLinker: Warning: 无法在加载 D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.26.20:356][398]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : 无法找到资源的文件。 /Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk
+[2018.12.11-22.26.20:356][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.26.20:357][398]LogLinker: Warning: 无法在加载 D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.26.20:379][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.26.20:379][398]LogLinker: Warning: 无法在加载 D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.26.20:384][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.26.20:384][398]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.26.20:385][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.26.20:385][398]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.26.20:385][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.26.20:385][398]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.26.20:385][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.26.20:385][398]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.26.20:421][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/KidAnim'
+[2018.12.11-22.26.20:421][398]LoadErrors: 加载失败 /Game/Geometry/Character/Animations_GameExporter/KidAnim.KidAnim_C 引用者 Game_Export_AnimationsWalk_4
+[2018.12.11-22.26.20:421][398]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/KidAnim’ 的文件。
+[2018.12.11-22.26.20:421][398]LogLinker: Warning: 无法找到文件 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk'
+[2018.12.11-22.26.20:421][398]LoadErrors: 加载失败 /Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk.Game_Export_AnimationsWalk 引用者 Game_Export_AnimationsWalk_4
+[2018.12.11-22.26.20:421][398]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Geometry/Character/Animations_GameExporter/Game_Export_AnimationsWalk’ 的文件。
+[2018.12.11-22.26.20:516][398]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.11-22.26.20:517][398]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.11-22.26.20:540][398]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.12.11-17.26.20
+[2018.12.11-22.26.20:541][398]LogWorld: Bringing up level for play took: 0.023133
+[2018.12.11-22.26.20:541][398]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.11-22.26.20:543][398]LogLoad: Took 0.656246 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2018.12.11-22.26.21:703][416]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.12.11-22.26.30:004][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.26.30:540][549]LogScript: Warning: “无访问”正在尝试读取属性 CurrentDirectActor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:02B0
+[2018.12.11-22.26.30:541][549]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CurrentDirectActor"。 蓝图： FirstPersonCharacter 函数： Execute Ubergraph First Person Character 图表： EventGraph 节点： 分支
+[2018.12.11-22.26.34:655][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.26.34:761][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.26.34:761][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.26.34:820][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-22.26.34:820][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1' with GeneratedClass '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EndScreen1.EndScreen1:PersistentLevel.EndScreen1'
+[2018.12.11-22.26.34:887][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-22.26.34:910][652]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.11-22.26.57:462][245]LogSlate: Window '保存内容' being destroyed
+[2018.12.11-22.26.57:975][245]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreen1BE90EA7E49DC0CE0610B18B4639FE86E.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreen1.umap'
+[2018.12.11-22.26.58:114][245]LogFileHelpers: Saving map 'EndScreen1' took 0.614
+[2018.12.11-22.26.58:138][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/EndScreenUI" FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreenUI.uasset" SILENT=true
+[2018.12.11-22.26.58:230][245]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/EndScreenUI1BDDE76D405EF676994D9095C90BEA17.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/EndScreenUI.uasset'
+[2018.12.11-22.26.58:249][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/TitleScreenUI" FILE="D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/TitleScreenUI.uasset" SILENT=true
+[2018.12.11-22.26.58:338][245]LogSavePackage: Moving 'D:/GitHub/CodenameWildfire/CodenameWildfire/Saved/TitleScreenUIE80EE227464B4CCC97C18F98CB06AC0E.tmp' to 'D:/GitHub/CodenameWildfire/CodenameWildfire/Content/FirstPersonBP/Maps/TitleScreenUI.uasset'
+[2018.12.11-22.26.59:265][245]LogSlate: Window 'CodenameWildfire - 虚幻编辑器' being destroyed
+[2018.12.11-22.27.00:054][246]Cmd: QUIT_EDITOR
+[2018.12.11-22.27.00:592][246]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2018.12.11-22.27.00:700][246]LogExit: Preparing to exit.
